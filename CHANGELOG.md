@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Oct 06 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.js ([@halilg1739](https://github.com/halilg1739))
+
+#### Authors: 1
+
+- [@halilg1739](https://github.com/halilg1739)
+
+---
+
 # v0.0.1 (Mon Oct 06 2025)
 
 :tada: This release contains work from a new contributor! :tada:
