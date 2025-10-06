@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "halilg1739",
+  "repo": "container-qjp3j-m",
+  "name": "halilg1739",
+  "email": "halil_gerez@hotmail.de",
+}
